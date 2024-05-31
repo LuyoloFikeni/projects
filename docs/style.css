@@ -18,6 +18,7 @@ header {
 }
 
 h1 {
+    text-align: center;
     margin-bottom: 5px; /* Reduce space between name and title */
 }
 
